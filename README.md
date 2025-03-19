@@ -71,7 +71,4 @@ This project demonstrates the application of Logistic Regression for binary clas
 ## References
 - Titanic Dataset: [https://www.kaggle.com/c/titanic](https://www.kaggle.com/c/titanic)
 - Scikit-learn Documentation: [https://scikit-learn.org](https://scikit-learn.org)
-
----
-
-This README provides a clear and concise explanation of the project, making it accessible to both technical and non-technical audiences. It also highlights the key steps, results, and dependencies, ensuring that anyone can replicate or build upon the work.
+- Google Colab file for code: https://colab.research.google.com/drive/1FF0uNfGnytGbPYHOIL3cLx0LD90TOK7V?usp=sharing
